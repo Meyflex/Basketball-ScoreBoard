@@ -1,0 +1,75 @@
+@font-face {
+    font-family: "CustomFont";
+    src: url("fonts/CursedTimerULiL.ttf");
+}
+
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #080001;
+}
+#home-guest{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.container {
+    width:575px; 
+    height:385px;
+    background: #1B244A;
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+  
+
+}
+h3{
+    color :#EEEEEE;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 0;
+
+    
+}
+.score-bord{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    width:155px;
+    height:100px;
+    background: #080001;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:#F94F6D ;
+    padding-top: 20px;
+    font-size: 90px;
+    font-family: "CustomFont";
+    border-radius: 5px;
+}
+.plus-buttons{
+    width:165px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  
+}
+.plus-button{
+    color: #9AABD8;
+    border: 1px solid #9AABD8;
+    border-radius: 5px;
+    background: #1B244A;
+    width: 45px;
+    height: 45px;
+    font-size: 18px;
+    font-family:"CustomFont" ;
+
+}
+.plus-button:hover{
+    background: #F94F6D;
+    color: #1B244A;
+}
+
