@@ -35,7 +35,7 @@
 ![image](https://user-images.githubusercontent.com/98128042/182167169-f4d1ac51-d7d9-427f-8aa4-199b75178775.png)
 
 
-* Ce project est fait afin  de s'ameliorer et maitriser le Html CSS, c est un site d'une page HTML qui recopie la page d'acceil de presentation de quelque destination touristique en Tunisie, pour ouvrir la page appuyez  <a name="general-info" href="https://meyflex.github.io/Basketball-ScoreBoard">ici </a>
+* Ce project est fait afin  de s'ameliorer et maitriser le Html CSS, c est un site qui permet d'afficher le score des differente equipe de basquet <a name="general-info" href="https://meyflex.github.io/Basketball-ScoreBoard">ici </a>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -43,6 +43,7 @@
 ### Built With
 * Html5 
 * CSS 3
+* Javascript
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
